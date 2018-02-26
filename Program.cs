@@ -16,6 +16,7 @@ namespace my_new_app
     {
         public static void Main(string[] args)
         {
+            
             CreateWebHostBuilder(args).Build().Run();
         }
 

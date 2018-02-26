@@ -3,8 +3,7 @@ import { CommonModule } from '@angular/common';
 
 @NgModule({
   imports: [
-    CommonModule
+    CommonModule,
   ],
-  declarations: []
 })
-export class ArticleModule { }
+export class SharedModule { }
